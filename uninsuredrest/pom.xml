@@ -21,6 +21,7 @@
 		<spring-security.version>4.0.3.RELEASE</spring-security.version>
 		<spring.amqp.version>1.5.6.RELEASE</spring.amqp.version>
 		<spring.framework.version>5.0.3.RELEASE</spring.framework.version>
+		
 		<rabbitmq.version>2.2.0</rabbitmq.version>
 		<jackson.library>2.7.5</jackson.library>
 	</properties>
